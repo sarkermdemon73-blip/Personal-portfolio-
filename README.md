@@ -1,24 +1,28 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#05060d" />
-    <meta name="description" content="Md. Shahriar Hossain Emon — aspiring AI Automation developer, tech enthusiast and lifelong learner from Bangladesh." />
-    <title>Md. Shahriar Hossain Emon | Portfolio</title>
-    <link rel="icon" type="image/webp" href="emon.webp" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Sora:wght@500;600;700&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root"></div>
 
-    <script src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"></script>
-    <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"></script>
-    <script src="https://unpkg.com/@babel/standalone@7.26.2/babel.min.js"></script>
+Md. Shahriar Hossain Emon
 
-    <script type="text/babel" src="app.jsx"></script>
-  </body>
-</html>
+Aspiring AI Automation Developer | Tech Enthusiast | Lifelong Learner
+
+Hello! I'm Md. Shahriar Hossain Emon, a technology enthusiast from Bangladesh who loves exploring different areas of computer science and technology.
+
+Currently, I'm working on AI Automation, building automation workflows, AI agents, and business solutions. I'm also working toward establishing my own automation agency, AutoJukti, to help businesses improve their operations through automation.
+
+Alongside AI automation, I'm learning Networking at a beginner level and exploring the fundamentals of Cybersecurity. I'm also learning React to build modern, interactive websites and improve my frontend development skills.
+
+My Learning Journey
+
+I'm passionate about computer science, so I want to explore different fields of technology, understand how they work, and build practical projects along the way.
+
+- AI Automation: Building workflows, AI agents, and automation solutions.
+- Networking: Learning fundamental networking concepts and technologies.
+- Cybersecurity: Exploring the basics of digital security and system protection.
+- Web Development: Learning React and building modern web applications.
+- Data Science: My future goal is to focus on data science and develop strong analytical skills.
+
+My Goal
+
+My long-term goal is to become a skilled technology professional with a strong foundation in computer science. I believe that exploring different fields will help me understand technology more deeply and discover where I can make the greatest impact.
+
+I'm continuously learning, experimenting, and building projects to turn my knowledge into real-world skills.
+
+One step at a time, one project at a time — InshaAllah, I'll keep growing.
